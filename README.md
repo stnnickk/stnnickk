@@ -25,4 +25,5 @@ Here are some ideas to get you started:
   <li><a href="https://github.com/stnnickk/memo-game">Card memory game</a></li>
 </ul>
 <h2>Codewars:</h2>
+
 [![codewars](https://www.codewars.com/users/stnnickk/badges/large)](https://www.codewars.com/users/stnnickk)   
