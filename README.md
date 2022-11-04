@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <li>React, Redux, axios, react-router-dom</li>
   <li>JavaScript ES6+</li>
   <li>Gulp, Webpack</li>
-  <li>HTML, CSS, SASS, LESS, PUG, adaptive responsive, BEM</li>
+  <li>HTML, PUG, CSS, SASS, LESS, adaptive responsive, BEM</li>
   <li>Jira, Trello</li>
 </ul>
 <h2>Projects:</h2>
