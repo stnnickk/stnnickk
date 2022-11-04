@@ -12,5 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h2>Skills</h2>
+<ul>
+  <li>React, Redux, axios, react-router-dom</li>
+  <li>React, Redux, axios, react-router-dom</li>
+  <li>React, Redux, axios, react-router-dom</li>
+</ul>
 [![codewars](https://www.codewars.com/users/stnnickk/badges/large)](https://www.codewars.com/users/stnnickk)   
