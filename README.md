@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2>Skills:</h2>
 <ul>
-  <li>React, Redux, axios, react-router-dom</li>
+  <li>React, Redux</li>
   <li>JavaScript ES6+</li>
   <li>Gulp, Webpack</li>
   <li>HTML, PUG, CSS, SASS, LESS, adaptive responsive, BEM</li>
