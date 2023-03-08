@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 <ul>
   <li><a href="https://github.com/stnnickk/memo-game">Card memory game</a></li>
 </ul>
+<h2>Contacts:</h2>
+<ul>
+  <li><a href="https://t.me/stnnickk">Telegram</a></li>
+  <li>Discord: <a href="https://discord.com/app">stnnickk#1467</a></li>
+</ul>
+
 <h2>Codewars:</h2>
 
 [![codewars](https://www.codewars.com/users/stnnickk/badges/large)](https://www.codewars.com/users/stnnickk)   
