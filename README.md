@@ -17,7 +17,8 @@ Here are some ideas to get you started:
   <li>React, Redux</li>
   <li>JavaScript ES6+</li>
   <li>Gulp, Webpack</li>
-  <li>HTML, PUG, CSS, SASS, LESS, adaptive responsive, BEM</li>
+  <li>HTML, PUG, CSS, SASS, LESS, TailwindCSS, adaptive responsive, BEM</li>
+  <li>Firebase</li>
   <li>Jira, Trello</li>
 </ul>
 <h2>Projects:</h2>
