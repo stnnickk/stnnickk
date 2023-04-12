@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hello, I'm a JavaScript developer from Ukraine. I develop the external part of the application and its business logic, I develop extensions for browsers of any complexity, and also various user scripts. Write to me if you have any cool project, I am always happy to advise you and help you realize your idea using modern technologies.
 <h2>Skills:</h2>
 <ul>
   <li>React, Redux</li>
