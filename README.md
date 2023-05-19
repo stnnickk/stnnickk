@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <h2>Projects:</h2>
 <ul>
   <li><a href="https://github.com/stnnickk/memo-game">Card memory game</a></li>
+    <li><a href="https://github.com/stnnickk/woordle-game">Woordle game</a></li>
 </ul>
 
 <h2>Codewars:</h2>
