@@ -12,20 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hello, I'm a JavaScript developer from Ukraine. I develop the external part of the application and its business logic, and also i develop extensions for browsers of any complexity. I am always happy to advise you and help you realize your idea using modern technologies.
-<h2>Skills:</h2>
-<ul>
-  <li>React, Redux</li>
-  <li>JavaScript ES6+</li>
-  <li>Gulp, Webpack</li>
-  <li>HTML, PUG, CSS, SASS, LESS, TailwindCSS, adaptive responsive, BEM</li>
-  <li>Firebase</li>
-  <li>Jira, Trello</li>
-</ul>
 <h2>Projects:</h2>
 <ul>
   <li><a href="https://github.com/stnnickk/memo-game">Card memory game</a></li>
-    <li><a href="https://github.com/stnnickk/woordle-game">Woordle game</a></li>
+  <li><a href="https://github.com/stnnickk/woordle-game">Woordle game</a></li>
 </ul>
 
 <h2>Codewars:</h2>
