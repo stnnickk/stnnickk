@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <ul>
   <li><a href="https://github.com/stnnickk/memo-game">Card memory game</a></li>
   <li><a href="https://github.com/stnnickk/woordle-game">Woordle game</a></li>
+  <li><a href="https://github.com/stnnickk/todo-py">ToDo App in Python</a></li>
 </ul>
 
 <h2>Codewars:</h2>
